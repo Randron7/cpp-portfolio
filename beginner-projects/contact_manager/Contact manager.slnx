@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Contact manager/Contact manager.vcxproj" Id="32df8a59-5e41-4a12-b1ff-d4dbf8a18167" />
+</Solution>
